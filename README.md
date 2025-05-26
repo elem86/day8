@@ -25,6 +25,7 @@ The OrderDate column came in the format DD/MM/YYYY, but SQLite only recognizes Y
 🕒 As always, I limited myself to ~1 hour of focused work to simulate fast-paced, real-world challenges.
 
 📂 Files & SQL Query: 🔗 https://github.com/elem86/day8
+
 📁 Dataset: Superstore Sales (Kaggle)
 
 ![image](https://github.com/user-attachments/assets/9a6680e3-288e-43cc-89ee-867ab78c25c3)
